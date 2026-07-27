@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "0.자비스크립트 심화 목차"
             }
+          },
+          {
+            "id": "664db86c9dba3779",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,10 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6528f7ab9da7116c",
+  "active": "664db86c9dba3779",
   "lastOpenFiles": [
-    "자비스크립트 심화 목차.md",
     "0.자비스크립트 심화 목차.md",
+    "자비스크립트 심화 목차.md",
     "1.런타임 메인스레드.md"
   ]
 }
